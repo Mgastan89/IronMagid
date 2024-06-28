@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5abc86ce-815e-49b9-91d7-fc00fdca2982" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/School/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/School/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mgdag/Documents/GitHub/IronSchool/homework-java-ironschool",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719532689552</updated>
       <workItem from="1719532690604" duration="2329000" />
-      <workItem from="1719572399245" duration="2801000" />
+      <workItem from="1719572399245" duration="3294000" />
     </task>
     <servers />
   </component>
