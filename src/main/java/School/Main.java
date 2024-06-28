@@ -12,4 +12,10 @@ public class Main {
 
 
     }
+
+    /*
+    1º git add .
+    2º git commit -m "message"
+    3º git push
+     */
 }
